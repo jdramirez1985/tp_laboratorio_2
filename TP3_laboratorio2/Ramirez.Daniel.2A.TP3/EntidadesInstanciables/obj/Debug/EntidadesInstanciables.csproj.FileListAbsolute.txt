@@ -11,3 +11,16 @@ C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesInstanciables
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

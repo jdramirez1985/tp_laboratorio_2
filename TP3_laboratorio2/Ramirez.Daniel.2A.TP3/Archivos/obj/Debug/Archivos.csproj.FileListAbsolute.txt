@@ -7,3 +7,12 @@ C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Arc
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP3_laboratorio2\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\Archivos.pdb

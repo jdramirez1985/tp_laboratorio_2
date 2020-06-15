@@ -32,7 +32,7 @@ namespace UnitTestProject1
                Alumno.EEstadoCuenta.Deudor);
                 uni += a2;
             }
-            catch (NacionalidadInvalidaException e)
+            catch (Exception e)
             {
                 Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
                 Console.WriteLine(e.Message);
@@ -63,7 +63,7 @@ namespace UnitTestProject1
                Alumno.EEstadoCuenta.Becado);
                 uni += a3;
             }
-            catch (AlumnoRepetidoException e)
+            catch (Exception e)
             {
                 Assert.IsInstanceOfType(e, typeof(AlumnoRepetidoException));
                 Console.WriteLine(e.Message);
