@@ -27,15 +27,15 @@ namespace UnitTestProject1
             uni += a1;
             try
             {
-                Alumno a2 = new Alumno(2, "Juana", "Martinez", "12234458",
+               Alumno a2 = new Alumno(2, "Juana", "Martinez", "12234458",
                EntidadesAbstractas.Persona.ENacionalidad.Extranjero, EntidadesInstanciables.Universidad.EClases.Laboratorio,
                Alumno.EEstadoCuenta.Deudor);
-                uni += a2;
+               uni += a2;
             }
             catch (Exception e)
             {
-                Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
-                Console.WriteLine(e.Message);
+               Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
+               Console.WriteLine(e.Message);
             }
         }
 
@@ -47,21 +47,21 @@ namespace UnitTestProject1
             uni += a1;
             try
             {
-                Alumno a2 = new Alumno(2, "Juana", "Martinez", "12234458",
+               Alumno a2 = new Alumno(2, "Juana", "Martinez", "12234458",
                EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Laboratorio,
                Alumno.EEstadoCuenta.Deudor);
-                uni += a2;
+               uni += a2;
             }
             catch (NacionalidadInvalidaException e)
             {
-                Console.WriteLine(e.Message);
+               Console.WriteLine(e.Message);
             }
             try
             {
-                Alumno a3 = new Alumno(3, "José", "Gutierrez", "12234456",
+               Alumno a3 = new Alumno(3, "José", "Gutierrez", "12234456",
                EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
                Alumno.EEstadoCuenta.Becado);
-                uni += a3;
+               uni += a3;
             }
             catch (Exception e)
             {
@@ -76,6 +76,43 @@ namespace UnitTestProject1
             Universidad uni = new Universidad();
 
             Assert.IsNotNull(uni.Alumnos);
+        }
+        
+        // Prueba que los caracteres recibidos se carguen en los campos solo si son letras
+        [TestMethod]
+        public void CaracteresValidos() 
+        {
+           Alumno a8 = new Alumno(8, "375668", "79S8", "22236456",
+           EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion,
+           Alumno.EEstadoCuenta.AlDia);
+
+            if (a8.Nombre != "")
+                Assert.Fail("Cadena Inválida !!", a8.Nombre);
+        }
+
+        [TestMethod]
+        public void ValidarNacionalidadDNI() // lanza la excepción si el método de validación de nacionalidad no pudo valiar el dni
+        {
+            try
+            {
+                Alumno alumnonacionalidadinvalida = new Alumno(2, "Juana", "Martinez", "12234458",
+                EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Laboratorio,
+                Alumno.EEstadoCuenta.Deudor);
+            }
+            catch(Exception e)
+            {
+                Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
+            }
+            try
+            {
+                Alumno alumnodninvalido = new Alumno(2, "Juan", "Fernandez", "112234458",
+                EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio,
+                Alumno.EEstadoCuenta.Deudor);
+            }
+            catch(Exception e)
+            {
+                Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
+            }
         }
     }
 }

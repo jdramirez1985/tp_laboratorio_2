@@ -7,3 +7,12 @@ C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\ob
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
 C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

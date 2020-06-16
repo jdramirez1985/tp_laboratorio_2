@@ -1,20 +1,28 @@
-CLASE DE: Laboratorio POR NOMBRE COMPLETO: Lopez, Juan
+CLASE DE: Programacion POR NOMBRE COMPLETO: Juarez, Roberto
 NACIONALIDAD: Argentino
-DNI: 12224458
-LEGAJO: 1
+DNI: 32234456
+LEGAJO: 2
 CLASES DEL DÍA: 
-Laboratorio
-Laboratorio
+Programacion
+Programacion
 
 
 ALUMNOS
 
-NOMBRE COMPLETO: Suarez, Joaquin
-NACIONALIDAD: Extranjero
-DNI: 91122456
-LEGAJO: 7
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+ESTADO DE LA CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
 ESTADO DE LA CUENTA: AlDia
-TOMA CLASE DE: Laboratorio
+TOMA CLASE DE: Programacion
 
 
 <------------------------------------------------------------------>
