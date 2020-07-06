@@ -1,0 +1,7 @@
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
