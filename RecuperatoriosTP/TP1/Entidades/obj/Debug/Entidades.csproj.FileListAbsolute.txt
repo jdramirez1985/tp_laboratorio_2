@@ -1,0 +1,12 @@
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\Entidades\obj\Debug\Entidades.pdb

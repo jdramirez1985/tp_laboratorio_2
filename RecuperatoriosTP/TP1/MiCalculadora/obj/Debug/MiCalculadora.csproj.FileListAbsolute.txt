@@ -1,0 +1,26 @@
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\dannycarlifornia\Downloads\prog 2 lab 2 cursada 2020\TPS\recup tp 1\TP1_laboratorio2\MiCalculadora\obj\Debug\MiCalculadora.pdb
